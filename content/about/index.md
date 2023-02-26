@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: School News
   order: 3
 ---
-# About Me
+# Week by week class updates
 
-I am a person that writes stuff.
+What has been happening in class 2 !
