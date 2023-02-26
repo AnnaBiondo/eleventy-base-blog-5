@@ -1,7 +1,7 @@
 ---
-title: This is my second post with a much longer title.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: Week 2.
+description: Class 2 progression
+date: 2023-02-27
 tags:
   - number 2
 ---
