@@ -2,15 +2,5 @@
 layout: layouts/base.njk
 ---
 <img src="https://www.freelogodesign.org/manager/logos/d5e3c0298097448382f9eb32a31a6b7c/download" alt="my logo">
-{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
-<div class="message-box">
-	<ol>
-		<li>Edit the <code>_data/metadata.js</code> with your blog’s information.</li>
-		<li>(Optional) Edit <code>eleventy.config.js</code> with your <a href="https://www.11ty.dev/docs/config/">configuration preferences</a>.</li>
-		
-	</ol>
-	<p><em>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
-</div>
-<!-- Stop deleting -->
 
 {{ content | safe }}
