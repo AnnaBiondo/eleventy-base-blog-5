@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: School News
+  key: Code Pen's
   order: 3
 ---
-# Week by week class updates
+# What I have done
 
-What has been happening in class 2 !
+code pens can go here !
