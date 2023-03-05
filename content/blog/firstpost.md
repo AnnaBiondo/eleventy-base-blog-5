@@ -3,7 +3,7 @@ title: This is my first post ever anywhere.
 description: Post about weekly school news.
 date: 2023-02-20
 tags:
-  - another tag somewhere
+  - Week 1
 ---
 i hope this works!
 
