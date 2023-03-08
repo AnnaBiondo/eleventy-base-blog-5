@@ -50,6 +50,7 @@
 
 		<main id="skip">
 		<h1>Child Food Alergie Form<h1>
+		<fieldset>
 	<form data-netlify="true" name="contact" method="post">
 	<label class="sr-only">First Name</label>
 	<input type="text" id="first-name" name="first-name" required/>
@@ -57,8 +58,10 @@
 	<input type="text" name="surname-name" required/>
 <label for="email" label class="sr-only">Enter Your Email Now: </label>
 	<input id="email" name="email" type="email" required />
-	<input type="text" name="childs-name" required/>
 <label class="sr-only">Your Child's Name</label>
+<input type="text" name="childs-name" required/>
+	</fieldset>
+	<fieldset>
 	<label for="days-attended" class="sr-only">Please select the days your child attened nursery</lable>
 	<label for="Monday"><input id="Monday" type="radio" name="Monday" /> Monday</label>
 	<label for="Tuesday"><input id="Tuesday" type="radio" name="Tuesday" /> Tuesday</label>
@@ -66,7 +69,7 @@
 	<label for="Thursday"><input id="Thursday" type="radio" name="Thursday" /> Thursday</label>
 	<label for="Friday"><input id="Friday" type="radio" name="Friday" /> Friday</label>
 	<input type="submit"/>
-	
+	</fieldset>
 	</form>
 		</main>
 
