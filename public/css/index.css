@@ -96,6 +96,12 @@ main {
 	font-size: 16px;
 	font-weight: 100;
 }
+form {
+	width: 60vw;
+	max-width: 500px;
+	min-width: 300px;
+	margin: 0 auto;
+}
 fieldset {
 	margin: 1em auto;
   text-align: center;
