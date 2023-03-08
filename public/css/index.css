@@ -94,11 +94,12 @@ main {
 	text-align: center;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	font-size: 16px;
-	font-weight: 700;
+	font-weight: 100;
 }
 fieldset {
 	margin: 1em auto;
   text-align: center;
+  color: #6969f7;
 }
 main :first-child {
 	margin-top: 3;
