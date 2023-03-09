@@ -27,5 +27,5 @@ and the output in the console was;
 
 ## Other News
 
-<a href="/blog/firstpost/">Week 1</a>
+<a href="/blog/firstpost/">Week 4</a>
 <a href="/blog/thirdpost/">Week 3</a>
