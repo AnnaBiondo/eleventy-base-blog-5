@@ -92,8 +92,11 @@ a[href]:active {
 main {
 	padding: 1rem;
 	text-align: center;
-	font-family: 'Times New Roman', Times, serif;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	font-size: 15px;
+}
+img {
+	text-align: start;
 }
 fieldset {
 	margin: 10px 0px 20px;
