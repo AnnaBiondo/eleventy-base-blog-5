@@ -1,7 +1,9 @@
 ---
-layout: layouts/base.njk
+title: Example Form
+description: example form I am building based on working in a nursery.
+date: 2023-03-12
+tags: Example form
 ---
-
 <h1 class="title">Child Food Allergy Form</h1>
 		<fieldset>
 	<form data-netlify="true" name="contact" method="post">
