@@ -271,10 +271,13 @@ h2 + .header-anchor {
 .title {
 	text-decoration: underline;
 }
-	form {
+	fieldset {
 		width: 80vw;
 		max-width: 800px;
 		min-width: 500px;
 		margin: 10 auto;
 		padding-bottom: 4em;
+	  }
+	  input {
+		width:100%;
 	  }
