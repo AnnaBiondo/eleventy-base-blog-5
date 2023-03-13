@@ -21,7 +21,17 @@ layout: layouts/base.njk
 	<label for="Wednesday"><input id="Wednesday" type="radio" name="Wednesday"/> Wednesday</label>
 	<label for="Thursday"><input id="Thursday" type="radio" name="Thursday"/> Thursday</label>
 	<label for="Friday"><input id="Friday" type="radio" name="Friday"/> Friday</label>
-	<input type="submit"/>
 	</fieldset>
+	<fieldset>
+	<label for="allergies" class="sr-only">Please select the allergins that affect you child from the list below</lable>
+	<label for="dairy"><input id="dairy" type="radio" name="dairy"/> Dairy</label>
+	<label for="eggs"><input id="eggs" type="radio" name="eggs"/> Eggs</label>
+	<label for="Nuts"><input id="Nuts" type="radio" name="Nuts"/> Nuts</label>
+	<label for="shellfish"><input id="shellfish" type="radio" name="shellfish"/> Shellfish</label>
+	</fieldset>
+	<input type="submit"/>
 	</form>
 {{ content | safe }}
+
+shellfish, such as prawns, crab and lobster
+wheat
