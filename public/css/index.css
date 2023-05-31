@@ -47,7 +47,7 @@ body {
 	margin: 0 auto;
 	font-family: var(--font-family);
 	color: var(--text-color);
-	background-color: var(--background-color);
+	background-color:#1493fb;
 }
 html {
 	overflow-y: scroll;
