@@ -1,5 +1,5 @@
 ---
-title: Week 6.
+title: Javascript
 description: introduction to Javascript
 date: 2023-03-09
 tags:
@@ -7,7 +7,7 @@ tags:
 ---
 First encounter with Javascript and build my first program calculating a bill with a tip added.
 
-## Code
+## The Code
 
 
 ```js
@@ -33,7 +33,7 @@ Console
 15 % tip"
 ```
 
-## Other News
+## New posts
 
-<a href="/blog/firstpost/">Week 4</a>
+<a href="/blog/firstpost/">Pseudocode</a>
 <a href="/blog/thirdpost/">Week 3</a>
