@@ -7,23 +7,31 @@ tags:
 ---
 First encounter with Javascript and build my first program calculating a bill with a tip added.
 
-var preTiptotal = 45;
-var tippercentage = 15;
-var tiptotal = (15 / 100) * preTiptotal;
-alert (tippercentage + "% of " + preTiptotal + " is " + tiptotal);
-var totalbill = tiptotal + preTiptotal;
-console.log(totalbill);
-console.log('Your bill of $ {value1}, including tip is ${value2}, tip added was ${value3}, you can add an additional ${value3}');
+## Code
+
+
+```js
+var preTipTotal = 45;
+var tipPercentage = 15;
+var tipTotal = (15 / 100) * preTipTotal;
+//alert (tippercentage + "% of " + preTiptotal + " is " + tiptotal);
+/*stopped the alert pop up*/
+var totalBill = tipTotal + preTipTotal;
+console.log(totalBill);
 var value1 = "£45.00";
 var value2 = "£51.75";
-var value3 = "15%";
-console.log(`Your bill of ${value1}, is, ${value2}, including a 
-${value3} tip`);
+console.log(`Your bill of £${preTipTotal}.00, is ${value2}, including a 
+${tipPercentage} % tip`);
+```
+## Console Output;
 
-and the output in the console was;
+```js
+Console
 
-"Your bill of £45.00, is, £51.75, including a 
-15% tip"
+51.75
+"Your bill of £45.00, is £51.75, including a 
+15 % tip"
+```
 
 ## Other News
 
