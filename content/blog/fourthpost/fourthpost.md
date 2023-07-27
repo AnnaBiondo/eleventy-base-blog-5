@@ -62,5 +62,5 @@ for (const [key,value] of Object.entries (recipe))
 
 Go to the below code pen and have a try!
 
-<a href="https://codepen.io/AnnaBiondo/pen/KKxjVMj">Recepies</a>
+<a href="https://codepen.io/AnnaBiondo/pen/KKxjVMj">Recipes</a>
 

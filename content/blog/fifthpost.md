@@ -1,13 +1,13 @@
 ---
-title: Week 5.
+title: GIT
 description: Getting to know GIT
 date: 2023-02-27
 tags:
-  - number 5
+ wounderful world of GIT 
 ---
 wellcome to working with GIT
 
 ## Other News
 
-<a href="/blog/firstpost/">Week 1</a>
+<a href="/blog/firstpost/">something</a>
 <a href="/blog/thirdpost/">Week 3</a>
