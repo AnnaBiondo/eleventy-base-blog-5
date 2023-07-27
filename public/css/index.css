@@ -272,12 +272,19 @@ h2 + .header-anchor {
 	text-decoration: underline;
 }
 	fieldset {
-		width: 80vw;
-		max-width: 800px;
-		min-width: 500px;
+		width: 100%;
+		max-width: 500px;
+		min-width: 400px;
 		margin: 10 auto;
-		padding-bottom: 4em;
+		padding-bottom: 6em;
+		color: aliceblue;
 	  }
 	  input {
-		width:100%;
+		width: 100%;
+		height: 30%;
+		display: flex;
+		flex-direction: row;
+	  }
+	  .butt {
+		width: 20%;
 	  }

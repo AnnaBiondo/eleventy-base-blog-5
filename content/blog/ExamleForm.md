@@ -17,20 +17,30 @@ tags: Example form
     <input type="text" name="childs-name" required/>
 	</fieldset>
 	<fieldset>
-	<label for="days-attended" class="sr-only">Please select the days your child attends nursery</lable>
+	<h2 for="days-attended" class="sr-only">Please select the days your child attends nursery</h2>
 	<label for="Monday"><input id="Monday" type="radio" name="Monday"/> Monday</label>
+	<br>
 	<label for="Tuesday"><input id="Tuesday" type="radio" name="Tuesday"/> Tuesday</label>
+	<br>
 	<label for="Wednesday"><input id="Wednesday" type="radio" name="Wednesday"/> Wednesday</label>
+	<br>
 	<label for="Thursday"><input id="Thursday" type="radio" name="Thursday"/> Thursday</label>
+	<br>
 	<label for="Friday"><input id="Friday" type="radio" name="Friday"/> Friday</label>
 	</fieldset>
+	<br>
 	<fieldset>
-	<label for="allergies" class="sr-only">Please select the allergins that affect you child from the list below</lable>
+	<h2 for="allergies" class="sr-only">Please select the allergins that affect you child from the list below</h2>
+	<br>
 	<label for="dairy"><input id="dairy" type="radio" name="dairy"/> Dairy</label>
+	<br>
 	<label for="eggs"><input id="eggs" type="radio" name="eggs"/> Eggs</label>
+	<br>
 	<label for="Nuts"><input id="Nuts" type="radio" name="Nuts"/> Nuts</label>
+	<br>
 	<label for="shellfish"><input id="shellfish" type="radio" name="shellfish"/> Shellfish</label>
 	</fieldset>
-	<input type="submit"/>
+	<br>
+	<input class="butt" type="submit"/>
 	</form>
 {{ content | safe }}
