@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 # Code pens
 
-Click on the links below to see examples of code;
+Click on the links below to see examples of code written during the bootcamp;
 
 <a href="https://codepen.io/AnnaBiondo/pen/eYjLdKP"> codepen challenge, re-create music table</a>
 
