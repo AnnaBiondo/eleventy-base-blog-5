@@ -8,22 +8,22 @@ eleventyNavigation:
 
 Click on the links below to see examples of code;
 
-https://codepen.io/AnnaBiondo/pen/eYjLdKP
+<a href="https://codepen.io/AnnaBiondo/pen/eYjLdKP"> codepen challenge, re-create music table</a>
 
-https://codepen.io/AnnaBiondo/pen/eYjopRj
+<a href="https://codepen.io/AnnaBiondo/pen/eYjopRj">codepen 2</a>
 
-https://codepen.io/AnnaBiondo/details/QWVqPmB
+<a href="https://codepen.io/AnnaBiondo/details/QWVqPmB">codepen 3</a>
 
-https://codepen.io/AnnaBiondo/pen/LYJdPwb
+<a href="https://codepen.io/AnnaBiondo/pen/LYJdPwb">codepen 4</a>
 
-https://codepen.io/AnnaBiondo/pen/vYzzvEy
+<a href="https://codepen.io/AnnaBiondo/pen/vYzzvEy">codepen 5</a>
 
-https://codepen.io/AnnaBiondo/pen/XWPyqgO
+<a href="https://codepen.io/AnnaBiondo/pen/XWPyqgO">codepen 6</a>
 
-https://codepen.io/AnnaBiondo/pen/WNgmoNE
+<a href="https://codepen.io/AnnaBiondo/pen/WNgmoNE">codepen 7</a>
 
-https://codepen.io/AnnaBiondo/pen/mdGYpGa
+<a href="https://codepen.io/AnnaBiondo/pen/mdGYpGa">codepen 8</a>
 
-https://codepen.io/AnnaBiondo/pen/NWLQzjW
+<a href="https://codepen.io/AnnaBiondo/pen/NWLQzjW">codepen 9</a>
 
 
